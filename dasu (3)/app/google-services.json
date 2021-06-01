@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036588597821",
+    "firebase_url": "https://turtlejava-4519e.firebaseio.com",
+    "project_id": "turtlejava-4519e",
+    "storage_bucket": "turtlejava-4519e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036588597821:android:0ceac3aa78df2ab8a3a054",
+        "android_client_info": {
+          "package_name": "com.dasu.turtlejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036588597821-dforfn2bd2op7tlq1nbf3ap2n15c0qc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxW7Cd1Mq7A1uufFXrcGVZiBhBNY9LVpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036588597821-dforfn2bd2op7tlq1nbf3ap2n15c0qc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
